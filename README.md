@@ -21,3 +21,5 @@ To migrate your ICP Ninja project off of the web browser and develop it locally,
 ### 1. Download your project from ICP Ninja using the 'Download files' button on the upper left corner under the pink ninja star icon.
 
 ### 2. Open the `BUILD.md` file for further instructions.
+
+![Results](https://github.com/user-attachments/assets/b1c3e8b5-e2b8-47f5-bec5-edafa1eeafc3)
